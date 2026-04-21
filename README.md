@@ -4,7 +4,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 🌱 I’m currently learning **HTML, CSS, and JavaScript**
+- 🌱 I’m currently learning **HTML, CSS, SCSS, and JavaScript**
 - 💡 I’m new to programming and building my foundation step by step
 - 🎯 Goal: Become a skilled fullstacked developer
 - 🚀 I enjoy learning by building small projects
