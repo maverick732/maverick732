@@ -16,10 +16,9 @@
 
 <p align="center">
 
-![HTML](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,html,css,sass,git" />
+</p>
 </p>
 
 ---
