@@ -6,7 +6,7 @@
 ## 👨‍💻 About Me
 - 🌱 I’m currently learning **HTML, CSS, and JavaScript**
 - 💡 I’m new to programming and building my foundation step by step
-- 🎯 Goal: Become a skilled front-end developer
+- 🎯 Goal: Become a skilled fullstacked developer
 - 🚀 I enjoy learning by building small projects
 - ⚡ Fun fact: Every expert was once a beginner
 
