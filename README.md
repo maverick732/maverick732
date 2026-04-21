@@ -8,7 +8,7 @@
 - 💡 I’m new to programming and building my foundation step by step
 - 🎯 Goal: Become a skilled fullstacked developer
 - 🚀 I enjoy learning by building small projects
-- ⚡ Fun fact: Every expert was once a beginner
+- ⚡ Fun fact: Every pro was once a beginner
 
 ---
 
