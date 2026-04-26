@@ -21,10 +21,10 @@
 ---
 
 ## 📚 What I'm Working On
-- 🔹 Learning how to structure websites with HTML  
-- 🔹 Styling pages with SCSS (Flexbox & layouts)  
-- 🔹 Adding interactivity with JavaScript  
-- 🔹 Building my first small projects  
+- Learning how to structure websites with HTML  
+- Styling pages with SCSS (Flexbox & layouts)  
+- Adding interactivity with JavaScript  
+- Building my first small projects  
 
 ---
 
