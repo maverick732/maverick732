@@ -3,12 +3,12 @@
 
 ---
 
-## 👨‍💻 About Me
-- 🌱 I’m currently learning **HTML, CSS, SCSS, and JavaScript**
-- 💡 I’m new to programming and building my foundation step by step
-- 🎯 Goal: Become a skilled fullstacked developer
-- 🚀 I enjoy learning by building small projects
-- ⚡ Fun fact: Every pro was once a beginner
+##  About Me
+-  I’m currently learning **HTML, CSS, SCSS, and JavaScript**
+-  I’m new to programming and building my foundation step by step
+-  Goal: Become a skilled fullstacked developer
+-  I enjoy learning by building small projects
+-  Fun fact: Every pro was once a beginner
 
 ---
 
@@ -28,12 +28,12 @@
 
 ---
 
-## 🚀 My Learning Path
+##  My Learning Path
 - ✔ HTML basics  
 - ✔ CSS styling & layouts  
-- 🔄 JavaScript fundamentals (current)  
-- ⏳ DOM manipulation  
-- ⏳ Small real-world projects  
+-  JavaScript fundamentals (current)  
+-  DOM manipulation  
+-  Small real-world projects  
 
 ---
 
@@ -64,5 +64,5 @@
 ---
 
 <p align="center">
-🔥 Learning one line of code at a time 🔥
+ Learning one line of code at a time 
 </p>
