@@ -12,7 +12,7 @@
 
 ---
 
-## 🛠️ Tech Stack (Learning)
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,sass,git" />
