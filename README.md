@@ -1,10 +1,24 @@
-<h1 align="center">Hi, I'm Mavz</h1>
+<h1 align="center">Hi, I'm Mavz 👋</h1>
+
+<p align="center">
+  Frontend Developer | Learning one line of code at a time
+</p>
+
+---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=maverick732&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=maverick732&layout=compact&theme=tokyonight)
-<h2 align="center">⚡ Tech Stack</h2>
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=maverick732&show_icons=true&theme=tokyonight" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maverick732&layout=compact&theme=tokyonight" width="48%" />
+
+</p>
+
+---
+
+## ⚡ Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript" />
@@ -16,11 +30,16 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
+---
+
 ## 🌐 Connect With Me
+
 - Portfolio: coming soon 🚧  
 - LinkedIn: add later  
 - Email: add later  
 
+---
+
 <p align="center">
-Learning one line of code at a time
+  ✨ Keep building, keep learning ✨
 </p>
