@@ -10,9 +10,9 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=maverick732&show_icons=true&theme=tokyonight" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=maverick732&show_icons=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maverick732&layout=compact&theme=tokyonight" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maverick732&layout=compact" />
 
 </p>
 
