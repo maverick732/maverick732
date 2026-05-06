@@ -2,9 +2,9 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=maverick732&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=maverick732&show_icons=true&theme=tokyonight)
 
-<img src="https://streak-stats.demolab.com?user=maverick732&theme=radical" />
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=maverick732&layout=compact&theme=tokyonight)
 
 <h2 align="center">⚡ Tech Stack</h2>
 
