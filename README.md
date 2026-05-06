@@ -1,9 +1,5 @@
 <h1 align="center">Hi, I'm Mavz 👋</h1>
 
-<p align="center">
-  Frontend Developer | Learning one line of code at a time
-</p>
-
 ---
 
 ## 📊 GitHub Stats
