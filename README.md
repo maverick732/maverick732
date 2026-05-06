@@ -1,11 +1,9 @@
 <h1 align="center">Hi, I'm Mavz</h1>
 
 ## 📊 GitHub Stats
-
 ![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=maverick732&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=maverick732&layout=compact&theme=tokyonight)
-
 <h2 align="center">⚡ Tech Stack</h2>
 
 <p align="center">
