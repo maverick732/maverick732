@@ -1,13 +1,14 @@
 <h1 align="center">Hi, I'm Mavz</h1>
 
-
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maverick732&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maverick732&layout=compact&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=maverick732&theme=radical" width="48%"/>
+</p>
 
 <h2 align="center">⚡ Tech Stack</h2>
 
@@ -20,22 +21,12 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
-</p>
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=maverick732&theme=radical" width="48%"/>
-
-</p>
-
 
 ## 🌐 Connect With Me
-- Portfolio: (coming soon 🚧)  
-- LinkedIn: (add later)  
-- Email: (add later)  
+- Portfolio: coming soon 🚧  
+- LinkedIn: add later  
+- Email: add later  
 
 <p align="center">
- Learning one line of code at a time 
+Learning one line of code at a time
 </p>
