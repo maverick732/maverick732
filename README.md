@@ -4,13 +4,11 @@
   Frontend Developer | Learning one line of code at a time
 </p>
 
+---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=maverick732&show_icons=true&theme=default&cache_seconds=1800" />
-
+  <img src="https://streak-stats.demolab.com?user=maverick732&hide_border=true" />
 </p>
 
 ---
