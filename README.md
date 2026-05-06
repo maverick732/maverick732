@@ -2,9 +2,9 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maverick732&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=maverick732&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maverick732&layout=compact&theme=tokyonight)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maverick732&layout=compact)
 
 <img src="https://streak-stats.demolab.com?user=maverick732&theme=radical" />
 
