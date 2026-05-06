@@ -6,9 +6,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maverick732&layout=compact&theme=tokyonight)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=maverick732&theme=radical" width="48%"/>
-</p>
+<img src="https://streak-stats.demolab.com?user=maverick732&theme=radical" />
 
 <h2 align="center">⚡ Tech Stack</h2>
 
