@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm Mavz 👋</h1>
+<h1 align="center">Hi, I'm Mavz </h1>
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maverick732&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maverick732&theme=tokyonight" />
@@ -14,7 +14,7 @@
 
 ---
 
-## ⚡ Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript" />
@@ -28,14 +28,14 @@
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
-- Portfolio: coming soon 🚧  
+- Portfolio: coming soon   
 - LinkedIn: add later  
 - Email: add later  
 
 ---
 
 <p align="center">
-  ✨ Keep building, keep learning ✨
+ Keep building, keep learning 
 </p>
