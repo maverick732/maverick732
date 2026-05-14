@@ -1,5 +1,5 @@
 
-Hi I'm Mavz!!!
+Hi, I'm Mavz !
 
 BSIT Student | 1st Year
 
