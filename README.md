@@ -1,11 +1,3 @@
-
-Hi, I'm Mavz !
-
-BSIT Student | 1st Year
-
-Continuously learning and improving my skills
-
----
  GitHub Stats
 
 <p align="center">
@@ -31,14 +23,3 @@ Tech Stack
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
-
----
-
-Connect With Me
-
-Portfolio: coming soon   
-LinkedIn: add later  
-Email: add later  
-
----
- Keep building, keep learning 
