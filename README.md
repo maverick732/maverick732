@@ -34,14 +34,11 @@ Tech Stack
 
 ---
 
-##  Connect With Me
+Connect With Me
 
-- Portfolio: coming soon   
-- LinkedIn: add later  
-- Email: add later  
+Portfolio: coming soon   
+LinkedIn: add later  
+Email: add later  
 
 ---
-
-<p align="center">
  Keep building, keep learning 
-</p>
