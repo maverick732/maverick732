@@ -10,7 +10,7 @@ Continuously learning and improving my skills
 
 ##  GitHub Stats
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maverick732&theme=tokyonight" />
+  <img src="https://github-readme-stats.up.railway.app/api?username=maverick732&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@ Continuously learning and improving my skills
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maverick732&theme=tokyonight" />
+  <img src="https://github-readme-stats.up.railway.app/api/top-langs/?username=maverick732&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ## Tech Stack
