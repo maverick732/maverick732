@@ -20,7 +20,7 @@ Continuously learning and improving my skills
 <p align="center">
   <img src="https://github-readme-stats-inky-tau-65.vercel.app/api/top-langs/?username=maverick732&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
+<img src="https://github-readme-stats-inky-tau-65.vercel.app/api?username=maverick732&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 ## Tech Stack
 
 <p align="center">
