@@ -1,4 +1,10 @@
-<h1 align="center">Hi, I'm Mavz </h1>
+<h1 align="center">
+Hi I'm Mavz!!!
+
+BSIT Student | 1st Year
+
+Continuously learning and improving my skills
+ </h1
 
 ---
 
